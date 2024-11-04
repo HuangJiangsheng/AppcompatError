@@ -2,17 +2,21 @@
 about "androidx.appcompat:appcompat:1.7.0" error
 
 ## title1
+```
 the version cause error：
 gradle plugin version: 7.4.1
 gradle version: 7.5
 Appcompat version: 1.7.0
+```
 
 
 ## title2
+```
 if you want to run this app:
 gradle plugin version: 8.0 +
 OR
 Appcompat version: 1.6.1
+```
 
 
 ## error log of title1
